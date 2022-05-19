@@ -5,20 +5,18 @@
 ## I'm a Student, Coder,and Developer!!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with developers
-- 🥅 2021 Goals: Contribute Open Source projects
+- 🥅 2022 Goals: Contribute Open Source projects
 - ⚡ Fun fact: I love to play basketball
 
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 
-- 👨‍💻 You can also check out my portfolio at [http://nishantkumartiwari.epizy.com/](http://nishantkumartiwari.epizy.com/)
+- 👨‍💻 You can also check out my portfolio at [https://nishant-kumarr-tiwari.netlify.app/](https://nishant-kumarr-tiwari.netlify.app/)
 
 - 📫 How to reach me **nishant88tiwari@gmail.com**
  
- ### Spotify Playing 🎧
 
-[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -49,9 +47,9 @@
 ### 📕 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-- [What and Why if __name__ == “__main__” in Python](https://nishant99tiwari.medium.com/what-and-why-if-name-main-in-python-23bed7cac274)
-- [A Incredible List of npm Packages for React Developers](https://nishant99tiwari.medium.com/a-incredible-list-of-npm-packages-for-react-developers-c90482e2bb0f)
-- [Methodology: General approach to hunt bugs](https://nishant99tiwari.medium.com/methodolgy-general-approach-to-hunt-bugs-8a75643f74a)
+- [useEffect: A whole new mental model](https://nishant99tiwari.medium.com/useeffect-a-whole-new-mental-model-8f1d01d41d04)
+- [Transpiler VS Compiler](https://nishant99tiwari.medium.com/transpiler-vs-compiler-2c138de85d01)
+- [CSS Flex Boxing Guide](https://nishant99tiwari.medium.com/css-flex-boxing-guide-46f0a093e778)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://nishant99tiwari.medium.com/)
