@@ -5,7 +5,7 @@
 ## I'm a Student, Coder,and Developer!!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with developers
-- 🥅 2022 Goals: Contribute Open Source projects
+- 🥅 2024 Goals: Contribute Open Source projects
 - ⚡ Fun fact: I love to play basketball
 
 
