@@ -2,10 +2,9 @@
 <h1 align="center">Hi 👋, I'm Nishant Kumar Tiwari</h1>
 <h3 align="center">A Human who have code in Veins</h3>
 
-## I'm a Student, Coder,and Developer!!
+## I'm a Software developer!!
 - 🌱 I’m currently learning everything 🤣
 - 👯 I’m looking to collaborate with developers
-- 🥅 2022 Goals: Contribute Open Source projects
 - ⚡ Fun fact: I love to play basketball
 
 
